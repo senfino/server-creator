@@ -1,5 +1,5 @@
 {
-  "name": "server-control",
+  "name": "server-creator",
   "version": "0.0.1",
   "description": "Provides methods for easy creation, stopping and controlling of long running scripts.",
   "main": "index.js",
