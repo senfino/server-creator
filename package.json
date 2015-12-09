@@ -1,0 +1,11 @@
+{
+  "name": "server-control",
+  "version": "0.0.1",
+  "description": "Provides methods for easy creation, stopping and controlling of long running scripts.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
